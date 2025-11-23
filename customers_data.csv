@@ -1,0 +1,21 @@
+﻿CustomerID,CustomerName,Gender,Age,Country,LoyaltyStatus
+CUST001,Customer 1,Male,49,UK,Bronze
+CUST002,Customer 2,Female,49,UK,Gold
+CUST003,Customer 3,Male,41,UK,Gold
+CUST004,Customer 4,Male,58,UK,Silver
+CUST005,Customer 5,Male,29,Germany,Gold
+CUST006,Customer 6,Female,56,Canada,Bronze
+CUST007,Customer 7,Male,19,Germany,Bronze
+CUST008,Customer 8,Male,20,USA,Bronze
+CUST009,Customer 9,Female,54,USA,Bronze
+CUST010,Customer 10,Male,34,France,Bronze
+CUST011,Customer 11,Female,19,France,Silver
+CUST012,Customer 12,Male,19,Canada,Silver
+CUST013,Customer 13,Male,45,France,Silver
+CUST014,Customer 14,Male,40,Canada,Bronze
+CUST015,Customer 15,Female,54,Canada,Gold
+CUST016,Customer 16,Male,49,France,Silver
+CUST017,Customer 17,Male,50,UK,Bronze
+CUST018,Customer 18,Female,18,France,Gold
+CUST019,Customer 19,Male,36,France,Silver
+CUST020,Customer 20,Male,19,Canada,Gold

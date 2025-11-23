@@ -1,0 +1,16 @@
+﻿ProductID,ProductName,Category,Subcategory,Supplier,Cost
+PROD001,Product 1,Electronics,Table,Supplier B,72
+PROD002,Product 2,Furniture,Laptop,Supplier B,191
+PROD003,Product 3,Furniture,Shirt,Supplier A,237
+PROD004,Product 4,Furniture,Table,Supplier C,179
+PROD005,Product 5,Clothing,Sofa,Supplier C,217
+PROD006,Product 6,Electronics,Laptop,Supplier A,435
+PROD007,Product 7,Furniture,Mobile,Supplier A,266
+PROD008,Product 8,Clothing,Shirt,Supplier A,343
+PROD009,Product 9,Clothing,Laptop,Supplier B,458
+PROD010,Product 10,Electronics,Sofa,Supplier B,222
+PROD011,Product 11,Furniture,Mobile,Supplier A,203
+PROD012,Product 12,Furniture,Table,Supplier C,142
+PROD013,Product 13,Furniture,Table,Supplier A,420
+PROD014,Product 14,Clothing,Mobile,Supplier A,274
+PROD015,Product 15,Furniture,Mobile,Supplier A,313
